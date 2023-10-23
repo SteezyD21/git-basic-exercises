@@ -1,1 +1,1 @@
-Did you know that you can get your eye tatooed?
+Yes, all they do is add ink into your eyeball.
