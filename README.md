@@ -1,1 +1,1 @@
-This is a markdown file for milkshake flavours
+This is a markdown file for milkshake flavours.
